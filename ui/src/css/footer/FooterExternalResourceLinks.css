@@ -1,0 +1,16 @@
+.externalResourceImage{
+    height: 30px;
+    max-width: 30px;
+}
+
+.rowClassName {
+    height: 100px;
+}
+
+.rowSeparatorClassName {
+    height: 10px;
+}
+
+.colClassName {
+    width: 90px;
+}
